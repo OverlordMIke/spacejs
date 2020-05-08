@@ -1,0 +1,8 @@
+//potential warp mechanic
+//increase speed?
+//scale everything up along the axis ship is pointing
+//noise buildup
+//overlay warp animation "loading" screen
+//load in new system
+//noise decrease
+//arrive in orbit of system main star
