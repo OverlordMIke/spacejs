@@ -3,7 +3,7 @@ function Ship() {
   this.pos = createVector(800,800);
   this.heading = 0;
   this.rotation = 0;
-  this.vel = createVector(1.6,-1.3);
+  this.vel = createVector(1,-1);
   this.deltar = 0;
   this.mass = 1;
   this.bodyforce = 0;
