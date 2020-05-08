@@ -24,8 +24,8 @@ function preload() {
   soundFormats("ogg");
   rcsaudio = loadSound('gameAudio/rcs');
   rocketaudio = loadSound('gameAudio/rocket');
-  bgimg = loadImage('gameImgs/doublespace.jpg');
-  earthimg = loadImage('gameImgs/earth.jpg');
+  bgimg = loadImage('https://raw.githubusercontent.com/OverlordMIke/spacejs/master/gameImgs/doublespace.jpg');
+  earthimg = loadImage('https://raw.githubusercontent.com/OverlordMIke/spacejs/master/gameImgs/earth.jpg');
   spacefont = loadFont('gameFonts/menufont.ttf');
 }
 
